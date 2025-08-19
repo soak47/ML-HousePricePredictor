@@ -1,0 +1,18 @@
+# Byte/Forge ML project defaults
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv
+.envrc
+.DS_Store
+models/
+reports/figures/
+data/raw/
+data/processed/
+data/external/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.sqlite3
+*.log
