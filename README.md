@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Melbourne House Price Predictor (Malvern East Focus)
 
 A guided ML engineering starter project to predict property sale prices in the Melbourne metro area, with an initial focus on Malvern East and neighbouring suburbs. Built as a clean, portfolio-ready repository with a reproducible baseline model and space for iterative improvement.
@@ -66,3 +67,8 @@ melbourne-house-price-predictor/
 ---
 
 *Built with ❤️ by Byte for Forge.*
+=======
+# ML HousePricePredictor
+Predict house prices given features like rooms, sq footage,neighborhood
+Using an Ai model to teach myself the basics of ML engineering concepts
+>>>>>>> 3d2f22fff081875a176e3b453b98a7712334f8ae
